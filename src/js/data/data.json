@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Pedestriants",
+        "items": [
+            42
+        ]
+    },
+    {
+        "name": "Buses",
+        "items": [
+            100
+        ]
+    },
+    {
+        "name": "Cars",
+        "items": [
+            45
+        ]
+    },
+    {
+        "name": "Trucks",
+        "items": [
+            67
+        ]
+    }
+]
